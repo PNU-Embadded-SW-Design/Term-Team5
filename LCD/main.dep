@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>5</fileVersion>
+    <fileChecksum>2225531780</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$PROJ_DIR$\..\practice\Libraries\CMSIS\stm32f10x_rcc.h</file>
+            <file>$PROJ_DIR$\..\practice\Libraries\CMSIS\stm32f10x_gpio.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\Libraries\CMSIS\stm32f10x_exti.o</file>
+            <file>$PROJ_DIR$\..\practice\Libraries\CMSIS\misc.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\Libraries\CMSIS\stm32f10x_gpio.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\..\practice\Libraries\CMSIS\stm32f10x.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Libraries\CMSIS\system_stm32f10x.o</file>
+            <file>$PROJ_DIR$\lcd.c</file>
+            <file>$PROJ_DIR$\Debug\Exe\main.out</file>
+            <file>$PROJ_DIR$\lcd.h</file>
+            <file>$PROJ_DIR$\main.c</file>
+            <file>$PROJ_DIR$\..\practice\Libraries\CMSIS\stm32f10x_it.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\Libraries\CMSIS\stm32f10x_rcc.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$PROJ_DIR$\..\practice\Libraries\CMSIS\system_stm32f10x.h</file>
+            <file>$PROJ_DIR$\..\practice\Libraries\CMSIS\stm32f10x_exti.c</file>
+            <file>$PROJ_DIR$\..\practice\Libraries\CMSIS\stm32f10x_rcc.c</file>
+            <file>$PROJ_DIR$\Libraries\CMSIS\misc.c</file>
+            <file>$PROJ_DIR$\Libraries\CMSIS\misc.h</file>
+            <file>$PROJ_DIR$\Libraries\CMSIS\stm32f10x_exti.h</file>
+            <file>$PROJ_DIR$\stm32f10x_lib.h</file>
+            <file>$PROJ_DIR$\Libraries\CMSIS\stm32f10x_usart.h</file>
+            <file>$PROJ_DIR$\..\practice\Libraries\CMSIS\stm32f10x_exti.h</file>
+            <file>$PROJ_DIR$\Libraries\CMSIS\stm32f10x.h</file>
+            <file>$PROJ_DIR$\Libraries\CMSIS\stm32f10x_gpio.c</file>
+            <file>$PROJ_DIR$\Libraries\CMSIS\stm32f10x_it.c</file>
+            <file>$PROJ_DIR$\Libraries\CMSIS\core_cm3.h</file>
+            <file>$PROJ_DIR$\Libraries\CMSIS\stm32f10x_it.h</file>
+            <file>$PROJ_DIR$\Libraries\CMSIS\system_stm32f10x.c</file>
+            <file>$PROJ_DIR$\Libraries\CMSIS\stm32f10x_exti.c</file>
+            <file>$PROJ_DIR$\Libraries\CMSIS\stm32f10x_gpio.h</file>
+            <file>$PROJ_DIR$\Libraries\CMSIS\stm32f10x_rcc.h</file>
+            <file>$PROJ_DIR$\Libraries\CMSIS\stm32f10x_rcc.c</file>
+            <file>$PROJ_DIR$\Libraries\CMSIS\system_stm32f10x.h</file>
+            <file>$PROJ_DIR$\Libraries\CMSIS\core_cm3.c</file>
+            <file>$PROJ_DIR$\Libraries\CMSIS\stm32f10x_usart.c</file>
+            <file>$PROJ_DIR$\..\practice\Libraries\CMSIS\stm32f10x_it.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Libraries\CMSIS\misc.o</file>
+            <file>$PROJ_DIR$\..\practice\Libraries\CMSIS\system_stm32f10x.c</file>
+            <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+            <file>$PROJ_DIR$\..\practice\Libraries\CMSIS\stm32f10x_gpio.c</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Libraries\CMSIS\core_cm3.o</file>
+            <file>$PROJ_DIR$\..\practice\Libraries\CMSIS\core_cm3.c</file>
+            <file>$PROJ_DIR$\..\practice\Libraries\CMSIS\misc.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+            <file>$PROJ_DIR$\..\practice\Libraries\CMSIS\core_cm3.h</file>
+            <file>$PROJ_DIR$\..\practice\Libraries\CMSIS\stm32f10x_usart.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\lcd.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\Libraries\CMSIS\stm32f10x_usart.o</file>
+            <file>$PROJ_DIR$\..\practice\Libraries\CMSIS\stm32f10x_usart.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\aarch32\iar_intrinsics_common.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\aarch32\intrinsics.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+            <file>$PROJ_DIR$\..\practice\lcd.c</file>
+            <file>$TOOLKIT_DIR$\inc\c\aarch32\iccarm_builtin.h</file>
+            <file>$PROJ_DIR$\..\practice\lcd.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\Libraries\CMSIS\stm32f10x_it.o</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\..\practice\Libraries\CMSIS\misc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 41</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 57 7 45 55 59 56 0 17 61 50 48 8 18</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\lcd.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 52</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 57 7 45 0 17 61 12 24</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 3</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 57 7 45 0 17 61 12 24</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\practice\Libraries\CMSIS\stm32f10x_it.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 62</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 57 7 45 49 55 59 56 0 43 17 16 61 50 8 26 40 54 18</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\practice\Libraries\CMSIS\stm32f10x_exti.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 4</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 57 7 45 55 59 56 0 17 61 50 8 26 18</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\practice\Libraries\CMSIS\stm32f10x_rcc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 15</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 57 7 45 55 59 56 0 17 61 50 8 1 18</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 11</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Libraries\CMSIS\misc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 41</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 57 7 45 55 59 56 0 17 61 30 22 27 37</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Libraries\CMSIS\stm32f10x_gpio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 6</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 57 7 45 55 59 56 0 17 61 30 27 34 35 37</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Libraries\CMSIS\stm32f10x_it.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 62</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 57 7 45 49 55 59 56 0 43 17 16 61 30 27 23 31 25 37</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Libraries\CMSIS\system_stm32f10x.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 9</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 57 7 45 55 59 56 0 17 61 30 27 37</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Libraries\CMSIS\stm32f10x_exti.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 4</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 57 7 45 55 59 56 0 17 61 30 27 23 37</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Libraries\CMSIS\stm32f10x_rcc.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 15</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 57 7 45 55 59 56 0 17 61 30 27 35 37</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Libraries\CMSIS\core_cm3.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 46</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 57 7 45 0 17 61</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Libraries\CMSIS\stm32f10x_usart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 53</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 57 7 45 55 59 56 0 17 61 30 27 35 25 37</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\practice\Libraries\CMSIS\system_stm32f10x.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 9</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 57 7 45 55 59 56 0 17 61 50 8 18</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\practice\Libraries\CMSIS\stm32f10x_gpio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 6</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 57 7 45 55 59 56 0 17 61 50 8 2 1 18</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\practice\Libraries\CMSIS\core_cm3.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 46</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 57 7 45 0 17 61</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\practice\Libraries\CMSIS\stm32f10x_usart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 53</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 57 7 45 55 59 56 0 17 61 50 8 1 54 18</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\practice\lcd.c</name>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 57 7 45 0 17 61 60</file>
+                </tool>
+            </inputs>
+        </file>
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>
